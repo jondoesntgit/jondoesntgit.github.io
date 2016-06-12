@@ -1,21 +1,62 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 title: Jonathan Wheeler
+tagline: Making Gears Turn
 email: jonathan.m.wheeler@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+  Hi, I’m a student at Stanford. I blog about productivity, networking,
+  and life lessons, in order to pay back to those who invested in me.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://localhost:4000" # the base hostname & protocol for your site
+logourl: /assets/images/logo.png # Site logo
+author: "Jonathan Wheeler"
+author_thumbnail: "/assets/images/jon.png" # Author avatar
+# Theme customization - please change from the defaults!
+theme:
+  # Color for sidebar bar, links, etc
+  highlight_color: "#205081" #205081" # "#272935"
+  # Social media links, leave blank to ignore
+  social: 
+    github: wheelerj
+    twitter: jondoesnttweet
+    facebook: jondoesntpost
+    #gplus: +gayanvirajith
+    # dribble: gayanvirajith
+    # pinterest: gayanvirajith
+
+  # Enable share buttons on post footer
+  show_share_buttons: true
+
+  # Show author picure, name and social links on post footer
+  show_author_info: true
+
+  # Disqus comments manager - shortname
+  # disqus_shortname: gaya-webcreate
+
+  # Google Analytics/Webmaster key, leave blank to ignore
+  google_analytics_key: 
+  google_webmaster_key: 
 
 # Build settings
 markdown: kramdown
+
+# Permalinks
+permalink:        pretty
+
+# Pagination config
+gems: [jekyll-paginate]
+paginate: 5
+
+# Files/Folders to be excluded from generated _site folder
+exclude: 
+  - CNAME
+  - Gemfile
+  - Rakefile
+  - README.md
+  - .gitignore
+  - .sass-cache
+  - Gemfile.lock
+
+# Sass conversion configs
+sass:
+  sass_dir: assets/css/_sass
+  style: :compressed

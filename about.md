@@ -1,15 +1,25 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
+banner_image: sample-banner-image-2.jpg
+banner_image_alt: About me
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi, I am Jonathan Wheeler. I am a student at Stanford University.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I love learning, and I am trying to teach myself to share more often.
+I created this site to pay back to those who have invested in me, but
+I hope that visitors as well will benefit.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+### Contact me
+
+Say `Hello` at jonathan.m.wheeler@gmail.com or find
+me on
+
+---
+
+{% include social.html %}
+
+[pw]: http://processwire.com
+[jekyll]: http://jekyllrb.com

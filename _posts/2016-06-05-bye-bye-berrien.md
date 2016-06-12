@@ -1,12 +1,13 @@
 ---
 title: "Bye Bye Berrien"
 layout: post
-date:   2016-06-05 22:30:41 -0500
+date:   2016-05-06 22:30:41 -0500
 categories: meta
+banner_image: https://i.imgur.com/oVvasZX.jpg
 ---
 
 
-![Po and friend say goodbye to Berrien... for now.](https://i.imgur.com/oVvasZX.jpg)
+<!-- ![Po and friend say goodbye to Berrien... for now.](https://i.imgur.com/oVvasZX.jpg) -->
 
 This morning, I finished packing up a Toyota Station Wagon and drove out through Snow Road away from Berrien for the last time in a while. I said my final goodbyes, and promised to keep in touch with many of you. I'm not sure whether life's memories stay where they are made, or whether they follow you wherever you go. In either case, life's memories should be made together, celebrated together, and shared together.
 
