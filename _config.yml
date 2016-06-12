@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Hi, I’m a student at Stanford. I blog about productivity, networking,
   and life lessons, in order to pay back to those who invested in me.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://localhost:4000" # the base hostname & protocol for your site
+url: "http://jamwheeler.com" # the base hostname & protocol for your site
 logourl: /assets/images/logo.png # Site logo
 author: "Jonathan Wheeler"
 author_thumbnail: "/assets/images/jon.png" # Author avatar
