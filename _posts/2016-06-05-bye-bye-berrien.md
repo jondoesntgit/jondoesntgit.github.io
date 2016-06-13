@@ -1,13 +1,12 @@
 ---
 title: "Bye Bye Berrien"
 layout: post
-date:   2016-05-06 22:30:41 -0500
+date:   2016-06-05 22:30:41 -0500
 categories: meta
-banner_image: https://i.imgur.com/oVvasZX.jpg
+banner_image: http://i.imgur.com/bIzb2Q1.jpg
 ---
 
 
-<!-- ![Po and friend say goodbye to Berrien... for now.](https://i.imgur.com/oVvasZX.jpg) -->
 
 This morning, I finished packing up a Toyota Station Wagon and drove out through Snow Road away from Berrien for the last time in a while. I said my final goodbyes, and promised to keep in touch with many of you. I'm not sure whether life's memories stay where they are made, or whether they follow you wherever you go. In either case, life's memories should be made together, celebrated together, and shared together.
 
@@ -37,6 +36,8 @@ In compiling this list, I was reminded of just how far my friends, family, and f
 There is an African Proverb that says: "If you want to go fast, go alone. If you want to go far, go together." When I first arrived, some thought that I could be finished and out of college in a few short years, but there were many others that partnered with me to develop a love of lifelong learning, and foster an affinity for using my talents for building community and ministry. I believe that these traits are far better than graduating as quickly as possible.
 
 > If you want to go fast, go alone. If you want to go far, go together. - African Proverb
+
+![Po and friend say goodbye to Berrien... for now.](https://i.imgur.com/oVvasZX.jpg) 
 
 So, to thank all of you I met in Berrien, I want to dedicate a blog to you. This is the partial fulfillment of the promise to "keep in touch" I made to many of you at  graduation. I hope to show my gratitude to you all by sharing my success. And perhaps even more importantly, to share the lessons I learn through failures--failures in opportunities I would never had if you hadn't invested in me as much as you did. It was through my failures at Andrews and through your ensuing mentorship that I was able to ever improve and do all that I did at Andrews. And furthermore, I know that in sharing what I'm up, you as my "personal board of advisors" will continue to help me to Seek Knowledge, Affirm Faith, and Change the World.
 
