@@ -11,7 +11,7 @@ This summer, I'm working at Camp Wakonda, about an hour north of Madison, Wiscon
 
 Camp has always been a welcome break from the high-paced digital world that I am growing up in.  For the most part, camp has one bar of cell service, the mobile data is barely faster than a skilled morse code operator at times, and there are 60 staff all sharing one WiFi connection during their time off. Camp instead offers an opportunity to experience nature including sunburn, last minute preparations in the pouring rain, and ticks and mosquitoes.
 
-[The hammocks are really nice though](http://i.imgur.com/ziiXqIA.jpg?1)
+![The hammocks are really nice though](http://i.imgur.com/ziiXqIA.jpg?1)
 
 I've had some discussions with some of the staff over why we chose to work at camp. While there are a lot of jobs and internships out there where us young folk can gain professional experience that will help with our careers, there are some people skills that are best taught by roughing it at a camp. These skills include:
 
