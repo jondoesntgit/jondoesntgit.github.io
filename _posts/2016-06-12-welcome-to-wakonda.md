@@ -2,7 +2,7 @@
 layout: post
 date: 2016-06-19
 title: Welcome to Wakonda
-image_banner: http://i.imgur.com/iKaV5gi.jpg?1
+banner_image: http://i.imgur.com/iKaV5gi.jpg?1
 ---
 
 # Camp Wakonda
