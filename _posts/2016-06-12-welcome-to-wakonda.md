@@ -5,8 +5,6 @@ title: Welcome to Wakonda
 banner_image: http://i.imgur.com/iKaV5gi.jpg?1
 ---
 
-# Camp Wakonda
-
 This summer, I'm working at Camp Wakonda, about an hour north of Madison, Wisconsin. This will be my fourth, and likely final summer working here. It has always been a great place for transitions in my life: 2 years ago, it helped me navigate culture shock coming back after a year as a student missionary to Lebanon. Last year, my wife Mateja and I spent the first 2 years of our marriage working at camp, and then went on our honeymoon. This summer, we are in the process of moving from Berrien to Stanford, CA. 
 
 Camp has always been a welcome break from the high-paced digital world that I am growing up in.  For the most part, camp has one bar of cell service, the mobile data is barely faster than a skilled morse code operator at times, and there are 60 staff all sharing one WiFi connection during their time off. Camp instead offers an opportunity to experience nature including sunburn, last minute preparations in the pouring rain, and ticks and mosquitoes.
