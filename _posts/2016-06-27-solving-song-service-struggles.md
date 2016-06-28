@@ -1,8 +1,8 @@
 ---
-banner_image:http://i.imgur.com/NpWoL4l.jpg
-title:Solving Song Service Struggles
-date:2016-06-27
-layout:post
+banner_image: http://i.imgur.com/NpWoL4l.jpg
+title: "Solving Song Service Struggles"
+date: 2016-06-27
+layout: post
 ---
 
 
