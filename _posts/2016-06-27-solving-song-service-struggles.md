@@ -26,7 +26,7 @@ The result is an application that can load a directory full of MultiMarkdown for
 
 I programmed some keyboard shortcuts that help whoever was running the slideshow to pull up any lyrics in mere seconds. Furthermore, I coded a display so the musicians could see what key the song was in, and color coded the box so if they letter was blurry, they could tell by color.
 
-The application was a huge success, and I uploaded it to the web, and placed an announcement in the Campmeeting Newsletter with a link to where they could use the app on my website at [labs.jamwheeler.com/primary-songs](labs.jamwheeler.com/primary-songs) and where they could download the program and all the lyrics to their hard drive for offline use from [GitHub](https://github.com/wheelerj/primary-songs).
+The application was a huge success, and I uploaded it to the web, and placed an announcement in the Campmeeting Newsletter with a link to where they could use the app on my website at [labs.jamwheeler.com/primary-songs](http://labs.jamwheeler.com/primary-songs) and where they could download the program and all the lyrics to their hard drive for offline use from [GitHub](https://github.com/wheelerj/primary-songs).
 
 ![Song service on a boat!](http://i.imgur.com/kdZFT3H.jpg)
 
