@@ -24,3 +24,9 @@ There were a couple dark patches under the dock that we thought we could see bet
 ![Theres a pretty decent beam at night](http://i.imgur.com/2eKMYR7.jpg)
 
 We discovered that 375 lux Walmart flashlights don't shine very brightly during the daytime (the sun puts out about 98,000 lux per square meter). But during the night, we had all sorts of fun. All the fish in the lake go deer-in-the-headlights with a spotlight on them. So even if the light isn't bright enough for daytime swimming, the nighttime beam makes the purchase totally worth it.
+
+## Curtain Hanger
+
+Lastly, I needed a hanger for an outfit. A half-hitch on a curtain did the job.
+
+![The Hangar](
