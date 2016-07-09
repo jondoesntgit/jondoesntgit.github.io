@@ -29,4 +29,4 @@ We discovered that 375 lux Walmart flashlights don't shine very brightly during 
 
 Lastly, I needed a hanger for an outfit. A half-hitch on a curtain did the job.
 
-![The Hangar](
+![The Hangar](http://i.imgur.com/HfotMt0.jpg
