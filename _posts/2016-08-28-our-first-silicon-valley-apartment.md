@@ -1,6 +1,6 @@
 ---
 title: "Our First Silicon Valley Apartment"
-categories:life, transition, change
+categories: change
 date: 2016-08-28
 banner_image: http://i.imgur.com/Y0XwNLn.jpg
 layout: post
