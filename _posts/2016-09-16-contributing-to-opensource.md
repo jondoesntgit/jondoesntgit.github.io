@@ -3,6 +3,7 @@ title: "Contributing to Open Source"
 categories: new
 date: 2016-09-16
 banner_image: http://i.imgur.com/lWLT6Lt.png
+meta_description: "Today, I have arrived as a newly minted contributor to the open source world."
 layout: post
 ---
 
