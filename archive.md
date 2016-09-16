@@ -17,5 +17,5 @@ banner_image: sample-banner-image-3.jpg
       {% capture year %}{{currentyear}}{% endcapture %} 
     {% endif %}
     <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
-{% endfor %}
-</div>
+  {% endfor %}
+<!-- shame code, but it through that in there and I found a lazy fix </div> -->

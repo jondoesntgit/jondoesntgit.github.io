@@ -5,24 +5,24 @@ permalink: /pay/
 banner_image_alt: Pay Me
 ---
 
-Cost of living and tuition at Stanford is not cheap. I do my best to be self-sufficient,
-but I do appreciate the help of others, especially because I do a lot of web development
-for free, and that time and skill could earn a lot of money elsewhere.
+## Mobile Payment Services
 
-If you have found this page by accident and appreciate the work that I have done, please
-check out this link to [PayPal](//paypal.me/jamwheeler).
+You can pay me via one of these mobile payment services:
 
-If you have found this page intentionally and want to pay me for something that I did
-for you, please also check out this link to [PayPal](//paypal.me/jamwheeler).
+- [paypal.me/jamwheeler](//paypal.me/jamwheeler)
+- [venmo.com/jamwheeler](//venmo.com/jamwheeler)
+- [cash.me/$jamwheeler](//cash.me/$jamwheeler)
 
-### Contact me
+## Bitcoin
 
-Say `Hello` at jonathan.m.wheeler@gmail.com or find
-me on
+You can also pay me by sending me Bitcoin.
 
----
+![1CHA2swzUcrdb1XkMvXkDeJKCAcEDsUqZg](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=1CHA2swzUcrdb1XkMvXkDeJKCAcEDsUqZg)
+1CHA2swzUcrdb1XkMvXkDeJKCAcEDsUqZg
 
-{% include social.html %}
+## Mail
+
+You can also mail me a check. Find my address on [my contact page](/contact)
 
 [pw]: http://processwire.com
 [jekyll]: http://jekyllrb.com

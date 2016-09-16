@@ -1,10 +1,11 @@
 # Site settings
 title: Jonathan Wheeler
-tagline: Making Gears Turn
+tagline: Equip others to help care for the world.
 email: jonathan.m.wheeler@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hi, I’m a student at Stanford. I blog about productivity, networking,
-  and life lessons, in order to pay back to those who invested in me.
+  Stanford EE Masters student, polyglot, software engineer, Christian, Bitcoin enthusiast, friend.
+  I blog about my discoveries and lessons learned
+  in order to pay back to those who invested in me.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jamwheeler.com" # the base hostname & protocol for your site
 logourl: /assets/images/logo.png # Site logo
