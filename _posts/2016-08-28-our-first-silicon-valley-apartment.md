@@ -1,6 +1,6 @@
 ---
 title: "Our First Silicon Valley Apartment"
-categories: reflections, news
+categories: reflections
 date: 2016-08-28
 banner_image: http://i.imgur.com/Y0XwNLn.jpg
 layout: post
