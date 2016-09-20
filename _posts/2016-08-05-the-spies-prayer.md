@@ -3,6 +3,7 @@ title: "The Spy's Prayer"
 date: 2016-08-05
 banner_image: https://papericide.files.wordpress.com/2012/04/img_1410.jpg
 layout: post
+categories: reflections
 ---
 
 Last night, I had a dream that I was a spy in Soviet Russia during the later years of the Cold War. I think I was having this dream because I had watched a special feature about an ex-spy at O'Hare while waiting for my flight to San Jose this last Sunday evening. In this feature, a retired CIA agent recounted her experience during the Cold War, and the last bit that I heard before I left was when the KGB kidnapped her, and interrogated her. The other CIA agent with whom she was working had a small pen which could take secret photos, and so when she was sat down at a table to be interrogated and the KGB placed that pen in front of her, she knew that she had been found out.

@@ -1,6 +1,6 @@
 ---
 title: "Contributing to Open Source"
-categories: new
+categories: news
 date: 2016-09-16
 banner_image: http://i.imgur.com/lWLT6Lt.png
 layout: post

@@ -2,6 +2,7 @@
 title: "Camp Creativity"
 date: 2016-07-08
 banner_image: http://i.imgur.com/yEtVO4M.jpg
+categories: exhibitions
 layout: post
 ---
 

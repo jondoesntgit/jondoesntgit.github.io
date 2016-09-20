@@ -3,6 +3,7 @@ title: "Our First Silicon Valley Apartment"
 categories: change
 date: 2016-08-28
 banner_image: http://i.imgur.com/Y0XwNLn.jpg
+categories: reflections
 layout: post
 ---
 

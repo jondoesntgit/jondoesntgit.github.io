@@ -2,6 +2,7 @@
 layout: post
 date: 2016-06-19
 title: Welcome to Wakonda
+categories: news
 banner_image: http://i.imgur.com/iKaV5gi.jpg?1
 ---
 
