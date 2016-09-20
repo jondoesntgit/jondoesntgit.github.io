@@ -4,7 +4,7 @@ categories: news
 date: 2016-09-16
 banner_image: http://i.imgur.com/lWLT6Lt.png
 layout: post
-meta_description: See how to enable ssh in ubuntu step by step guide
+meta_description: Today, I have entered the bright world of open source programming.
 ---
 
 A friend texted me a few months ago saying that he was officially an open source contributor. He explained that he had found a bug with some software that he was using, and was able to find the error in the source code. He made some modifications, committed the changes on a github fork, and then issued a pull request to the original author so that other users could benefit from it too.
