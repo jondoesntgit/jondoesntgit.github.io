@@ -2,7 +2,7 @@
 title: "Contributing to Open Source"
 categories: news
 date: 2016-09-16
-banner_image: http://i.imgur.com/lWLT6Lt.png
+banner_image: http://i.imgur.com/mwXoeFL.png
 layout: post
 meta_description: Today, I have entered the bright world of open source programming.
 ---
