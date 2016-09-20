@@ -4,6 +4,7 @@ categories: reflections, news
 date: 2016-08-28
 banner_image: http://i.imgur.com/Y0XwNLn.jpg
 layout: post
+meta_description: Rent in San Francisco Bay Area is expensive. Good thing I've got God.
 ---
 
 Rent in San Francisco Bay Area is expensive.
