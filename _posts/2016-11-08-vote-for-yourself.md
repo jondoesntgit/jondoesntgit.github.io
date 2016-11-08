@@ -4,7 +4,7 @@ categories: tips
 date: 2016-11-08
 banner_image: https://www.usvotefoundation.org/sites/default/files/FB_Cover_Nov8th.jpg
 layout: post
-meta_description: This is my regurgitation of a compelling argumetn to vote for yourself on November 8.
+meta_description: It's time to put your cape on, 'cause nobody is coming to save you
 ---
 
 When November rolled around in 2012, I was a politically ambivalent sophomore at Andrews University. I grew up in Wisconsin, but was studying in Michigan, and the hassle of registering to vote seemed like too much work to spend an hour or two on election day casting a single vote that wouldn't make a difference in how my state fell. Studying for classes seemed like a more useful way to spend my time.
