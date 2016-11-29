@@ -7,6 +7,6 @@ layout: post
 meta_description: Sketchnotes of my research. I even mention cats!
 ---
 
-[![https://www.youtube.com/watch?v=tOn3yAWL0ys](https://img.youtube.com/vi/tOn3yAWL0ys/0.jpg)](https://www.youtube.com/watch?v=tOn3yAWL0ys)
+I'm researching fiber optic gyroscopes. I just put together a video of them and uploaded it to youtube. Here's the link:
 
-Check out a non-technical explanation of my research. It's only 4 minutes long :)
+[https://www.youtube.com/watch?v=tOn3yAWL0ys](https://www.youtube.com/watch?v=tOn3yAWL0ys)
