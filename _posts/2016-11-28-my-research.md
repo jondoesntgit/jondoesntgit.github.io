@@ -7,6 +7,6 @@ layout: post
 meta_description: Sketchnotes of my research. I even mention cats!
 ---
 
-I'm researching fiber optic gyroscopes. I just put together a video of them and uploaded it to youtube. Here's the link:
+I'm researching fiber optic gyroscopes. I just put together a non-techincal description video and uploaded it to youtube. Here's the link:
 
 [https://www.youtube.com/watch?v=tOn3yAWL0ys](https://www.youtube.com/watch?v=tOn3yAWL0ys)
