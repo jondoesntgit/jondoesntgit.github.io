@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pay Jon
-permalink: /pay/
+permalink: /pay
 banner_image_alt: Pay Me
 ---
 
@@ -17,8 +17,12 @@ You can pay me via one of these mobile payment services:
 
 You can also pay me by sending me Bitcoin.
 
-![1CHA2swzUcrdb1XkMvXkDeJKCAcEDsUqZg](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=1CHA2swzUcrdb1XkMvXkDeJKCAcEDsUqZg)
-1CHA2swzUcrdb1XkMvXkDeJKCAcEDsUqZg
+<div align="center">
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=1L2iQRJHBbAaCTCo3jKLCR13bkvBgBC1qU" />
+1L2iQRJHBbAaCTCo3jKLCR13bkvBgBC1qU
+
+</div>
+
 
 ## Mail
 
