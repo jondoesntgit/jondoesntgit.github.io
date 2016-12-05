@@ -36,10 +36,10 @@ banner_image_alt: Flair
 
 <div align="center">
 <a href="https://www.duolingo.com/jamwheeler">
-<img class="flag" src="https://b.thumbs.redditmedia.com/tkqJtyXcZ-OYmLaY.png" /><span class="duo duo-de"></span>&nbsp;
-<img class="flag" src="https://b.thumbs.redditmedia.com/Hs0JAtSwNYtsmcYi.png" /><span class="duo duo-fr"></span>&nbsp;
-<img class="flag" src="https://b.thumbs.redditmedia.com/6jE2_QPc5iNeleRI.png" /><span class="duo duo-es"></span>&nbsp;
-<img class="flag" src="https://b.thumbs.redditmedia.com/WyqRvFdxGGp96ME_YS9tyru2RsJ1HlBuWSUm3KB1CAc.png" /><span class="duo duo-ru"></span>&nbsp;
+<img class="flag" src="https://b.thumbs.redditmedia.com/tkqJtyXcZ-OYmLaY.png" /><span class="duo duo-de">9</span>&nbsp;
+<img class="flag" src="https://b.thumbs.redditmedia.com/6jE2_QPc5iNeleRI.png" /><span class="duo duo-es">7</span>&nbsp;
+<img class="flag" src="https://b.thumbs.redditmedia.com/Hs0JAtSwNYtsmcYi.png" /><span class="duo duo-fr">5</span>&nbsp;
+<img class="flag" src="https://b.thumbs.redditmedia.com/WyqRvFdxGGp96ME_YS9tyru2RsJ1HlBuWSUm3KB1CAc.png" />4<span class="duo duo-ru"></span>&nbsp;
 </a>
 </div>
 
