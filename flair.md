@@ -1,8 +1,8 @@
 ---
 layout: page
-title: My Flare
-permalink: /flare
-banner_image_alt: Flare
+title: Flair and Badges
+permalink: /flair
+banner_image_alt: Flair
 ---
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
