@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Visit
-permalink: /visit/
+permalink: /visit
 banner_image_alt: Visit
 ---
 
