@@ -1,20 +1,21 @@
 ---
 layout: page
-title: Visit
+title: Visiting Our Home
 permalink: /visit
 banner_image_alt: Visit
 ---
 
-We love visitors!
-
-# Flying to the Bay Area
-
-There are three airports that will get you near us. Here is our address:
+We love visitors! If you want to visit, 
+here is our address:
 
 729 Escondido Rd
 Stanford CA, 94305
 
-![Directions](http://imgur.com/a/RHy7a)
+![Directions](http://i.imgur.com/buH4dXM.png)
+
+# Flying to the Bay Area
+
+There are three airports that will get you near us. 
 
 ## Oakland International Airport (OAK)
 
