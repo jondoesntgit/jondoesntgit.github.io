@@ -1,13 +1,17 @@
 <div class="container">
     <nav class="navbar">
         <ul class="navbar-list">
-            <li class="navbar-item"><a class="navbar-link" href="{{ site.baseurl }}">Home</a>
+            <li class="navbar-item"><a class="navbar-link" href="{{ site.baseurl }}"><i class="fa fa-home"></i><span class="wide">Home</span></a>
             </li>
             {% for page in site.pages %} {% if page.title %}
-            <li class="navbar-item"><a class="navbar-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+            <li class="navbar-item"><a class="navbar-link" href="{{ page.url | prepend: site.baseurl }}"><i class="fa fa-{{ page.icon }}"></i><span class="wide">{{ page.title }}</span></a></li>
             {% endif %} {% endfor %}
-            <li class="navbar-item"><a class="navbar-link" href="{{ "/blog" | prepend: site.baseurl }}">Blog</a></li>
+            <li class="navbar-item">
+                <a class="navbar-link" href="{{ "/blog" | prepend: site.baseurl }}">
+                <i class="fa fa-rss"></i>
+                <span class="wide">Blog</span>
+                </a>
+            </li>
         </ul>
     </nav>
-
 </div>

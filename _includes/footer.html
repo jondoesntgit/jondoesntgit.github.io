@@ -1,6 +1,8 @@
 <footer>
-<p>By Jonathan Wheeler</p>
-
+<p>
+<span id="last-updated">
+Last updated {{ site.time | date_to_string }}
+</span>
 <ul class="social">
 {% if site.twitter_username %}
   <li>
@@ -42,7 +44,5 @@
   </li>
 {% endif %}
 </ul>
-
-
-Last updated {{ site.time | date_to_string }}
+</p>
 </footer>

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
-icon: question
+title: Pay
+permalink: /pay/
+icon: usd
 ---
 
 About content goes here.

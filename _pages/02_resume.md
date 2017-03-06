@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
-icon: question
+title: Resume
+permalink: /resume/
+icon: certificate
 ---
 
 About content goes here.
