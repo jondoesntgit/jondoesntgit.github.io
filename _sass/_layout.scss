@@ -1,6 +1,4 @@
 
-$border : #ccc;
-
 header { 
     padding: 0px 15px; 
     text-align: center; 
@@ -13,12 +11,6 @@ header {
 footer { 
     text-align: center; 
     padding: 40px;
-}
-
-#main{
-  border: 1px solid $border;
-  border-top: 0;
-  border-radius: 0px 0px 4px 4px;
 }
 
 #last-updated{
@@ -46,8 +38,8 @@ footer {
     height: 6.5rem;
     background: #fff;
     z-index: 99;
-    border-top: 1px solid $border;
-    border-bottom: 1px solid $border; }
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee; }
   .navbar-spacer {
     display: none; }
   .navbar > .container {
@@ -105,7 +97,7 @@ footer {
   letter-spacing: .2rem;
   font-weight: 600; }
 .docs-section {
-  border-top: 1px solid $border;
+  border-top: 1px solid #eee;
   padding: 4rem 0;
   margin-bottom: 0;}
 .value-img {
@@ -159,7 +151,7 @@ footer {
   position: relative;
   overflow: hidden;
   border-radius: 6px;
-  border: 1px solid $border;
+  border: 1px solid #eee;
   height: 250px; }
 .example-screenshot {
   width: 100%;
@@ -167,7 +159,7 @@ footer {
 .example-screenshot.coming-soon {
   width: auto;
   position: absolute;
-  background: $border;
+  background: #eee;
   top: 5px;
   right: 5px;
   bottom: 5px;
