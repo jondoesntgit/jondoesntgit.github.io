@@ -5,11 +5,5 @@
             {% for page in site.pages %} {% if page.title %}
             <li class="navbar-item"><a class="navbar-link" href="{{ page.url | prepend: site.baseurl }}"><i class="fa fa-{{ page.icon }}"></i><span class="wide">{{ page.title }}</span></a></li>
             {% endif %} {% endfor %}
-            <li class="navbar-item">
-                <a class="navbar-link" href="{{ "/blog" | prepend: site.baseurl }}">
-                <i class="fa fa-rss"></i>
-                <span class="wide">Blog</span>
-                </a>
-            </li>
         </ul>
     </nav>
