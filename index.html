@@ -2,70 +2,28 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  {% assign post_url = post.url | append: '/' | replace: '//', '/' | prepend: site.baseurl | prepend: site.url | %}
-  <article class="post">
+<div class="container">
 
-    {% if post.banner_image %}
-    <div class="banner-image">
-      <a href="{{ post_url }}"
-        title="{{ post.title }}">
-      <img 
-          src="{{ post.banner_image }} " 
-          alt="{% if post.banner_image_alt %}{{ post.banner_image_alt }}{% else %}{{ post.title }} {% endif %}">
-      </a>
+<header><h1>Jonathan Wheeler</h1></header>
+
+  <div class="row">
+    <div class="one-third column valign">
+    	<img class="u-max-full-width" src="http://placehold.it/600x400"/>
     </div>
-    {% endif %}
+    <div class="two-thirds column valign">
+    	<h3>Let There be Light!
+    	</h3>
+    	<p>
+    	Have you ever worked furiously towards a goal only to realize when you were done that you achieved something different than you set out to?
+    	What is more important: knowing what direction you're pointed, or getting there fast?
+    	</p>
 
-    <h1 class="post-title">
-      <a href="{{ post.url | append: '/' | replace: '//', '/' | prepend: site.baseurl | prepend: site.url |  }}">
-        {{ post.title }}
-      </a>
-    </h1>
+    	<p>I study how light can be used for inertial navigation of aircraft. My research at Stanford's <a href="https://ginzton.stanford.edu/">Ginzton Laboratory</a> seeks to make <a href="https://www.osapublishing.org/ao/abstract.cfm?uri=ao-15-5-1099">fiber optic gyroscopes</a> more accurate and less expensive.
+    	</p>
 
-    <p class="post-meta">
-    {% if (post.categories.size > 0 %}
-      <span class="categories">
-      {{ post.categories | array_to_sentence_string }}
-      </span> |
-    {% endif %}
-    <span class="post-date">
-    {{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}  
-    </span>
-    </p>
-
-    {{ post.excerpt }}
-    <a href="{{ post.url | append: '/' | replace: '//', '/' | prepend: site.baseurl | prepend: site.url |  }}">
-      Continue reading »
-    </a>
-  </article>
-  {% endfor %}
+    	<p>
+    	Moreover, I research how the <a href="http://biblehub.com/john/8-12.htm">light of the world</a> can be used for the navigation of the challenges of this life, and a roadmap to the life to come. I seek to <a href="http://biblehub.com/matthew/5-16.htm">share this light</a> with others.
+    	</p>
+    </div>
+  </div>
 </div>
-
-{% if paginator.total_pages > 1 %}
-<div class="pagination">
-  
-  {% if paginator.next_page %}
-      <a class="pagination-item older btn" href="{{ paginator.next_page_path | prepend: site.baseurl | append: '/' | replace: '//', '/' }}">Older</a>    
-  {% else %}
-    <span class="pagination-item older btn-disabled">Older</span>
-  {% endif %}
-  
-  {% if paginator.previous_page %}
-    <a class="pagination-item newer btn " href="{{ paginator.previous_page_path | prepend: site.baseurl | append: '/' | replace: '//', '/' }}">Newer</a>
-  {% else %}
-    <span class="pagination-item newer btn-disabled">Newer</span>
-  {% endif %}  
-  
-</div>
-{% endif %}
-
-<script type="application/ld+json">
-{
-    "@context": "http://schema.org",
-    "@type": "WebSite",
-    "url": "{{ '' | prepend: site.baseurl | prepend: site.url | append: '/' }}"
-    }
-}
-</script>

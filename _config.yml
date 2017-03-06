@@ -1,63 +1,42 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
 # Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 title: Jonathan Wheeler
-tagline: Equip others to help care for the world.
-email: jonathan.m.wheeler@gmail.com
+email: jonathan dot m dot wheeler at gmail dot com
 description: > # this means to ignore newlines until "baseurl:"
-  Stanford EE Masters student, polyglot, software engineer, Christian, Bitcoin enthusiast, friend.
-  I blog about my discoveries and lessons learned
-  in order to pay back to those who invested in me.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jamwheeler.com" # the base hostname & protocol for your site
-logourl: /assets/images/logo.png # Site logo
+  I study how light can be used for navigation, both for
+   inertial navigation of aircraft, and for navigating challenges
+   of this life.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://jamwheeler.com" # the base hostname & protocol for your site, e.g. http://example.com
 author: "Jonathan Wheeler"
 author_thumbnail: "/assets/images/jon.png" # Author avatar
-# Theme customization - please change from the defaults!
-theme_settings:
-  # Color for sidebar bar, links, etc
-  highlight_color: "#205081" #205081" # "#272935"
-  # Social media links, leave blank to ignore
-  social: 
-    github: wheelerj
-    twitter: jondoesnttweet
-    facebook: jondoesntpost
-    #gplus: +gayanvirajith
-    # dribble: gayanvirajith
-    # pinterest: gayanvirajith
-
-  # Enable share buttons on post footer
-  show_share_buttons: true
-
-  # Show author picure, name and social links on post footer
-  show_author_info: true
-
-  # Disqus comments manager - shortname
-  # disqus_shortname: gaya-webcreate
-
-  # Google Analytics/Webmaster key, leave blank to ignore
-  google_analytics_key: 
-  google_webmaster_key: 
+twitter_username: jondoesnttweet
+github_username:  jondoesntgit
+facebook_username: jondoesntpost
+linkedin_username: jondoesntlink
+instagram_username: jondoesntig
 
 # Build settings
 markdown: kramdown
-
-# Permalinks
-permalink:        pretty
-
-# Pagination config
-gems: [jekyll-paginate]
-paginate: 5
-
-# Files/Folders to be excluded from generated _site folder
-exclude: 
-  - CNAME
+gems:
+  - jekyll-feed
+exclude:
   - Gemfile
-  - Rakefile
-  - README.md
+  - Gemfile.lock
+  - CNAME
   - .gitignore
   - .sass-cache
-  - Gemfile.lock
 
-# Sass conversion configs
-sass:
-  sass_dir: assets/css/_sass
-  style: :compressed
+include: ['_pages']
