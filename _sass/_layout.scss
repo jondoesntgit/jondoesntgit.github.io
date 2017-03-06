@@ -17,6 +17,16 @@ footer {
     font-size: small;
 }
 
+.navbar-list{
+    text-align: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+.navbar-item{
+    float: left;
+    width: 14%;
+}
 
   /* Navbar */
   .navbar + .docs-section {
@@ -46,7 +56,6 @@ footer {
     font-size: 11px;
     font-weight: 600;
     letter-spacing: .2rem;
-    margin-right: 35px;
     text-decoration: none;
     line-height: 6.5rem;
     color: #222; }
@@ -64,7 +73,7 @@ footer {
 
 
 
-@media (max-width: 549px) {
+@media (max-width: 680px) {
 
   span.wide{
     display:none
