@@ -2,10 +2,26 @@ ul.social  {
     list-style-type: none;
 }
 
-ul.social li {
+
+@media (min-width: 600px){
+  ul.social li {
         display: inline;
         padding: 2px;
+  }
 }
+
+@media (max-width: 599px){
+
+    ul.social{
+      text-align: left;
+    }
+
+    ul.social li {
+    display: block;
+    text-align: left;
+  }
+}
+
 
 ul.social li a {
     height: 20px;
