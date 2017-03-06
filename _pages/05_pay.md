@@ -19,6 +19,7 @@ You can also pay me by sending me Bitcoin.
  
 <div align="center"> 
 <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=1L2iQRJHBbAaCTCo3jKLCR13bkvBgBC1qU" /> 
+
 1L2iQRJHBbAaCTCo3jKLCR13bkvBgBC1qU 
  
 </div> 
