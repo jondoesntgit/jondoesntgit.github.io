@@ -21,6 +21,22 @@ header {
   text-align: center;
 }
 
+$postsize: 60px;
+
+.post-meta{
+  padding-top: 6px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1;
+  color: #444;
+  width: $postsize;
+  height: $postsize;
+  border: 1px solid $border;
+  border-radius: 5px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
 
 footer { 
     text-align: center; 

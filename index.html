@@ -26,4 +26,19 @@ layout: default
     	</p>
     </div>
   </div>
+
+<h2>Latest Posts</h2>
+<div class="row">
+{% for post in site.posts limit:3%}
+<div class="one-third column">
+<time>{{ post.date | date: "%b %-d, %Y" }}</time>
+<h5><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h5>
+{{post.excerpt}}
+
+</div>
+{% endfor %}
+</div>
+
+
+
 </div>
