@@ -2,7 +2,7 @@
 categories: tips
 layout: post
 title: The Zeigarnik Effect
-meta\_description: The journey of 1000 miles begins with a single step. The first step is actually almost as hard as the rest of the steps!
+meta_description: The journey of 1000 miles begins with a single step. The first step is actually almost as hard as the rest of the steps!
 ---
 
 I'm always amazed when a waiter takes my order without writing anything down. I'm a vegetarian, and occasionally I ask for substitutions with my order. My wife absolutely loves to make substitutions, and when our order is transformed into food 20 minutes later, I'm blown away when it comes through 100% accurate. It's most shocking when I'm in a big group, and the waiter can keep a dozen orders straight *and* remember where everyone was seated at the table. This also shocked Bluma Zeigarnik, a Lithuanian researcher who wrote about it in her [Ph.D. thesis in 1927][1].

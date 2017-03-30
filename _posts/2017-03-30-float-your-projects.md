@@ -2,7 +2,7 @@
 categories: tips
 layout: post
 title: Float Your Projects
-meta\_description: If you feel like you're drowning in work, try this!
+meta_description: If you feel like you're drowning in work, try this!
 banner_image: http://i.imgur.com/iiysohu.jpg
 ---
 
