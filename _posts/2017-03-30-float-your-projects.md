@@ -1,7 +1,6 @@
 ---
 categories: tips
 layout: post
-title: Float Your Projects
 meta_description: If you feel like you're drowning in work, try this!
 banner_image: http://i.imgur.com/iiysohu.jpg
 ---
@@ -20,7 +19,7 @@ I once shared this strategy to one of my friends, and he really loved it. In fac
 
 By the way, thanks goes to Jennifer Wheeler for the photo.
 
-In GPAs, there's the concept of a C-level. Anything above this is passing, and anything below this is failing, at least in order for courses to count towards your major requirements at most institutions. If you're trying to get your projects to a B, then you're trying to get your projects above the C-level, or the 'sea level'. This is where the pun "float your projects comes from."
+In GPAs, there's the concept of a C-level. Anything above this is passing, and anything below this is failing, at least in order for courses to count towards your major requirements at most institutions. If you're trying to get your projects to a B, then you're trying to get your projects above the C-level, or the 'sea level'. This is where the pun "float your projects" comes from.
 
  If you can get your projects to float as fast as possible when you get them, then you have plenty of time to ask for help on the challenging bits that you have to perfect to bring your project from B to A. Often times, these hard parts can't be thrown in haphazardly the night before its due, and thus adopting this strategy of allowing lots of time to finish the final 20% of a project is one of the only ways to superb jobs on tough projects.
 
