@@ -8,7 +8,7 @@ icon: car
 We love visitors! If you want to visit,  
 here is our address: 
  
-729 Escondido Rd 
+729 Escondido Rd Apt 326
 Stanford CA, 94305 
  
 ![Directions](http://i.imgur.com/buH4dXM.png) 
@@ -66,4 +66,4 @@ The easiest way to enter our building is from the stairwell on the south side (t
 third floor, and you can text us when you arrive, and we will let you in. 
  
 You can also use the Door King module on the main entrance to dial our extension. This will ring our number and we can buzz you in. 
-Take the elevator to the third floor. 
+Take the elevator to the third floor. We are apartment 326.
