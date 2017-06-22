@@ -27,8 +27,8 @@ I have a policy of not responding to calls or texts from unknown numbers. If you
  
 I enjoy receiving mail. Here is my current address (valid through mid summer 2017). 
  
-729 Escondido Rd. Apt 326   
-Stanford, CA 94305 
+850 Sycamore Loop 
+Mountain View, CA 94043
  
 ## Social Media 
  
