@@ -4,7 +4,6 @@ layout: post
 meta_description: In my quest for the ultimate app, I believe my search has finally converged...
 ---
 
-# The Ultimate App
 
 On the quest to find the ultimate app, I believe I have arrived at a sublime truth. Productivity and efficiency are not software problems. If they were, you'd be able to assemble enough code to do a persons job for them, so that they wouldn't have to do anything. While at first, this seems appealing, Meriam-Webster defines a state of "requiring little attention or thought" as *mindlessness*. It turns out that humans have a fundamental aversion to mindlessness, and prefer rather to be in a state of *mindfulness*.
 
