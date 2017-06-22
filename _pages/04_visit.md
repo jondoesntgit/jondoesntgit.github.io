@@ -19,7 +19,7 @@ Mountain View, CA  94043
 
 
 <div align="center"> 
-<img src="http://i.imgur.com/gCwjH7a.png" /> 
+<img src="http://i.imgur.com/kd9acmn.png" /> 
 </div>
 
 <div align="center">
