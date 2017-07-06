@@ -13,7 +13,7 @@ Expected graduation date: 2018, GPA 4.15
 **Masters of Science**, Electrical Engineering
 
 ##### Andrews University
-Graduated May 2017, GPA 3.96  
+Graduated May 2016, GPA 3.96  
 
 *Summa Cum Laude*, J. N. Andrews Honors Scholar distinction  
 **Batchelor of Science**, Majors: Math, Physics  
