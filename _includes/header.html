@@ -2,7 +2,7 @@
         <ul class="navbar-list">
             <li class="navbar-item"><a class="navbar-link" href="{{ site.baseurl }}/"><i class="fa fa-home"></i><span class="wide">Home</span></a>
             </li>
-            {% for page in site.pages %} {% if page.title %}
+            {% for page in site.pages %} {% if page.title and page.icon %}
             <li class="navbar-item"><a class="navbar-link" href="{{ page.url | prepend: site.baseurl }}"><i class="fa fa-{{ page.icon }}"></i><span class="wide">{{ page.title }}</span></a></li>
             {% endif %} {% endfor %}
         </ul>
