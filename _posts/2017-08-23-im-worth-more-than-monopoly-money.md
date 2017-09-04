@@ -120,7 +120,7 @@ Would I have been okay waiting another week or two to make up the difference? Ab
 
 # Conclusion
 
-So in conclusion, here are 5 pieces of advise I would share with someone wanting to journey into being debt free:
+So in conclusion, here are 5 pieces of advice I would share with someone wanting to journey into being debt free:
 
 1. Listen to Dave Ramsey
 2. Get on a written budget
